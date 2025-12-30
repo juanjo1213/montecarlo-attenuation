@@ -39,9 +39,9 @@ def montecarlo_attenuation(
      )
      
      return{
-     "Transmitted fraction": transmitted_fraction,
-     "Absorbed fraction": absorbed_fraction,
-     "Absorbed energy": absorbed_energy/N,
-     "Dose_profile": dose_profile,
+     "transmitted_fraction": transmitted_fraction,
+     "absorbed_fraction": absorbed_fraction,
+     "absorbed_energy": absorbed_energy/N,
+     "dose_profile": dose_profile,
      "statistical_error":sigma_transmission
      }

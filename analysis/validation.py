@@ -37,7 +37,7 @@ def validate_attenuation(
     return{
         "T_mc":T_mc,
         "T_analytical": T_analytical,
-        "Absolute_error":absolute_error,
-        "Relative_error":relative_error,
-        "Statistical_error":sigma_mc
+        "absolute_error":absolute_error,
+        "relative_error":relative_error,
+        "statistical_error":sigma_mc
     }
