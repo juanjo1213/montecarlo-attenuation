@@ -40,13 +40,13 @@ applied to radiation transport problems with industrial relevance.
 
 The model considers monoenergetic photons propagating through a homogeneous
 
-material of thickness \\( x \\).
+material of thickness x.
 
 
 
 Photon interactions are modeled using an exponential free-path distribution
 
-defined by the linear attenuation coefficient \\( \\mu \\).
+defined by the linear attenuation coefficient mu.
 
 
 
@@ -54,11 +54,11 @@ The analytical solution for the transmission probability is:
 
 
 
-\\\[
+
 
 T(x) = e^{-\\mu x}
 
-\\]
+
 
 
 
