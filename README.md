@@ -4,7 +4,7 @@
 
 \## Overview
 
-
+READ Simulacion_Transp_Radiacion.pdf FOR A CONCEPTUAL EXPLANATION
 
 This project implements a Monte Carlo simulation to model the attenuation
 
